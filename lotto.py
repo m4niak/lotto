@@ -19,7 +19,7 @@ class Lotek:
         tempNumber.sort()
         self.randNumber = tempNumber
 
-program = Lotek()
-program.randNumber()
+system = Lotek()
+system.randNumber()
 
-print(program.randNumber)
+print(system.randNumber)
